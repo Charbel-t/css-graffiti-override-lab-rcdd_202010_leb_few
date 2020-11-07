@@ -13,5 +13,7 @@ body{
   text-align: center;
 }
 #wall{
-  position: center;
+  position: fixed;
+  width:700px;
+  height: 500px;
 }
