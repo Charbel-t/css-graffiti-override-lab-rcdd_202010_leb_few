@@ -24,7 +24,7 @@ body div#wall div.parent div > #tag-7.slick {
   display: block;
 }
 #wall #tag-4 {
-  background: url(../images/tag-4.png);
-  z-index: 10px;
+  background: url(../images/tag-5.png);
+  z-index: auto;
   display: block;
 }
