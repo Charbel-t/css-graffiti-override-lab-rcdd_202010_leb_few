@@ -12,3 +12,6 @@ body{
   background: green;
   text-align: center;
 }
+#wall{
+  position: center;
+}
