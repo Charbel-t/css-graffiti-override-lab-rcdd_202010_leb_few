@@ -18,3 +18,9 @@ body{
   height: 500px;
   border: 10px dashed orange;
 }
+body div#wall div.parent div > #tag-7.slick {
+  background: yellow;
+  z-index: 5;
+  display: block;
+}
+
