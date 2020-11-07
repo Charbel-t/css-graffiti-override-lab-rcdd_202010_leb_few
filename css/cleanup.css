@@ -4,6 +4,9 @@
 }
 body{
   background: blue;
+  font-size: 30px;
+  text-decoration: underline;
+  
 }
 .tag-2{
   background: green;
