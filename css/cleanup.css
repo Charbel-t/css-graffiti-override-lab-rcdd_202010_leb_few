@@ -2,3 +2,10 @@
 .tag-1 {
   display: none;
 }
+body{
+  background: blue;
+}
+.tag-2{
+  background: green;
+  text-align: center;
+}
